@@ -1,17 +1,17 @@
-#IPhone Price Ditect
+# IPhone Price Ditect
 
-##This Problem :
+## This Problem :
 
 Check the future I phone version Price
 
-##Tools :
+## Tools :
 
-Using Python pandas,sklearn
+Using Python (pandas,sklearn)
 
 Main idea is Machin Learning
 
 
-##The Solution :
+## The Solution :
 
 ```python
 import pandas as pd
